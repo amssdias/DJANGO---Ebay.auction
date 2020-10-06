@@ -4,9 +4,11 @@ Project for course CS50 WEB DEV, eBay-like e-commerce auction site that will all
 
 Made on August - 2020
 
-To run:
-1 - Download the code. 
-2 - With the terminal window, go to the folder with all the files. 
-3 - Type on terminal window "python manage.py runserver".
-4 - It will give you some lines, between them theres one saying "Starting Development server at" and you copy the line that should look something like this "http://127.0.0.1:8000/".
-5 - Paste in as a website in your browser and you good to go.
+### To run:
+* Download the code. 
+* With the terminal window, go to the folder with all the files. 
+* Type on terminal window "python manage.py runserver".
+* It will give you some lines, between them theres one saying "Starting Development server at" and you copy the line that should look something like this "http://127.0.0.1:8000/".
+* Paste in as a website in your browser and you good to go.
+
+**To view, you _MUST_ have Python and Django installed.**
