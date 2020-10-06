@@ -4,7 +4,7 @@ Project for course CS50 WEB DEV, eBay-like e-commerce auction site that will all
 
 Made on August - 2020
 
-### To run:
+### To view:
 * Download the code. 
 * With the terminal window, go to the folder with all the files. 
 * Type on terminal window "python manage.py runserver".
